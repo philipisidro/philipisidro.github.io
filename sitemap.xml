@@ -103,19 +103,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://p.com/images/untitled-1.png</loc>
+    <lastmod>2015-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://p.com/index.html</loc>
-    <lastmod>2015-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://p.com/events.html</loc>
-    <lastmod>2015-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://p.com/live-loud-(2014).html</loc>
     <lastmod>2015-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
